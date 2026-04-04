@@ -1,3 +1,2 @@
 #!/bin/bash
-echo "$PATH" | tr ":" "\n" | grep / | wc -l
-# Force update
+echo "$PATH" | tr ':' '\n' | wc -l
