@@ -1,1 +1,1 @@
-This directory contains shell script tasks
+Basics project README
